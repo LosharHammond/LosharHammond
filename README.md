@@ -1,6 +1,6 @@
 # Hi there, I'm Loshar Hammond! 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E03AQEZluo3MH2DoQ/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1731936979771?e=1744848000&v=beta&t=juUOdPcHjweE41YpcU_eQuSYVLcR8PzAT5KLcNK6e1A)
+![Profile Banner](https://media.licdn.com/dms/image/v2/D4E03AQHw5pVnWOfxYA/profile-displayphoto-shrink_800_800/B4EZUESMy4G0Ag-/0/1739533635451?e=1744848000&v=beta&t=TSnZGBrO3tH3eiCPUTYllGV9sgTXPJ_raamHN-lB1W8)
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer**, **Mobile App Developer**, and **Data Analyst** with a strong foundation in **software development, IT services, and data analytics**. As a Computer Science graduate, I am dedicated to building **innovative solutions** that improve lives and drive technological advancement.
