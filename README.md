@@ -1,6 +1,6 @@
 # Hi there, I'm Loshar Hammond! 👋
 
-![Profile Banner](https://media.licdn.com/dms/image/v2/D4E03AQHw5pVnWOfxYA/profile-displayphoto-shrink_800_800/B4EZUESMy4G0Ag-/0/1739533635451?e=1744848000&v=beta&t=TSnZGBrO3tH3eiCPUTYllGV9sgTXPJ_raamHN-lB1W8)
+![Profile Banner](https://avatars.githubusercontent.com/u/126801525?s=400&u=982dd1cd7507ec2c22a6c2e9f0a09520cf3f67d2&v=4)
 
 ## 🚀 About Me
 I'm a passionate **Full-Stack Developer**, **Mobile App Developer**, and **Data Analyst** with a strong foundation in **software development, IT services, and data analytics**. As a Computer Science graduate, I am dedicated to building **innovative solutions** that improve lives and drive technological advancement.
@@ -19,7 +19,7 @@ I'm a passionate **Full-Stack Developer**, **Mobile App Developer**, and **Data 
 🔹 **[Book Haven](https://github.com/LosharHammond/BookHaven)** - A React.js app for storing and viewing educational and entertainment books online.
 
 ## 💼 Work Experience
-- **Founder & Contributor at BlueSky Research and Information Service**
+- **Founder & Contributor at BlueSky Info Tech GH [![Website](https://bitgh.netlify.app/)**
 - **National Service IT Specialist at KNUST E-Learning**
 - **Freelance Front-End Developer & Online Tutor**
 
