@@ -19,7 +19,7 @@ I'm a passionate **Full-Stack Developer**, **Mobile App Developer**, and **Data 
 🔹 **[Book Haven](https://github.com/LosharHammond/BookHaven)** - A React.js app for storing and viewing educational and entertainment books online.
 
 ## 💼 Work Experience
-- **Founder & Contributor at BlueSky Info Tech GH** [![Website](https://bitgh.netlify.app/assets/icon-Bl3TyIZs.png)](https://bitgh.netlify.app/)
+- **Founder & Contributor at BlueSky Info Tech GH** [![Website](Website)](https://bitgh.netlify.app/)
 - **National Service IT Specialist at KNUST E-Learning**
 - **Freelance Front-End Developer & Online Tutor**
 
